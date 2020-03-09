@@ -16,6 +16,7 @@ display: inline-block;
 font-size: 20px;
 padding:10px;
 margin-right: 10px;
+text-decoration:none
 }
 a:hover{
   background-color: blue;  
@@ -122,6 +123,7 @@ footer{
         font-size: 14px;
         padding:4px;
         margin-right: 5px;
+        text-decoration:none
     }
 }
 @media  screen and (min-width:1024px) and (max-width:1024px){
@@ -160,6 +162,7 @@ footer{
         font-size: 20px;
         padding:10px;
         margin-right: 10px;
+        text-decoration:none
     }
 }
 @media  screen and (min-width:1440px) and (max-width:1440px){
@@ -197,6 +200,7 @@ footer{
         font-size: 30px;
         padding:10px;
         margin-right: 10px;
+        text-decoration:none
     }
 }
 @media  screen and (min-width:2560px) and (max-width:2560px){
@@ -236,6 +240,7 @@ footer{
         font-size: 40px;
         padding:10px;
         margin-right: 10px;
+        text-decoration:none
     }
 }
 
