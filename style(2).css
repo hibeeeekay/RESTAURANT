@@ -1,5 +1,5 @@
 body{
-    background-image:url('IMG/gettyimages-1125725514-170667a.jpg');
+    background-image:url('RESTAURANT/gettyimages-1125725514-170667a.jpg');
     background-size:100%;
     height: auto;
     width:100%;
@@ -47,7 +47,7 @@ button{
     background:rgb(233, 216, 220);
     color: rgb(15, 15, 15);
     margin: 5px;
-    margin-top:px;
+    
 }
 a:hover{
   background-color: blue; 
@@ -85,7 +85,7 @@ footer{
     body{
         width: 100%;
         height: auto;
-        background-image:url('IMG/image2.jpg');
+        background-image:url('RESTAURANT/image2.jpg');
         background-size: 100%;
     }
     .top_menu{
@@ -152,7 +152,7 @@ footer{
     body{
         width: 100%;
         height: auto;
-        background-image:url('IMG/image2.jpg');
+        background-image:url('RESTAURANT/image2.jpg');
         background-size: 100%;
         
     }
