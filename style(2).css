@@ -27,6 +27,7 @@ margin-left: 10px;
     border-radius: 10px;
     font-weight: 100;
     font-size: 20px;
+    text-decoration:none
 }
 .About{
     background-color:#87bdd8;
@@ -34,6 +35,7 @@ margin-left: 10px;
     border-radius: 10px;
     font-weight: 100; 
     font-size: 20px;
+    text-decoration: none
 }
 .contact{
     background-color:#87bdd8;
@@ -41,12 +43,14 @@ margin-left: 10px;
     border-radius: 10px;
     font-weight: 100;
     font-size: 20px;
+    text-decoration: none
 }
 
 button{
     background:rgb(233, 216, 220);
     color: rgb(15, 15, 15);
     margin: 5px;
+    text-decoration: none
     
 }
 a:hover{
@@ -72,6 +76,7 @@ button{
     border-radius: 15px;
     font-size: 20px;
     border:none
+    text-decoration: none
 }
 footer{
     background-color: white;
@@ -105,6 +110,7 @@ footer{
         border-radius: 10px;
         font-weight: 100;
         font-size: 12px;
+        text-decoration: none
     }
     .About{
         background-color:#87bdd8;
@@ -112,6 +118,7 @@ footer{
         border-radius: 10px;
         font-weight: 100; 
         font-size: 12px;
+        text-decoration: none
     }
     .contact{
         background-color:#87bdd8;
@@ -119,6 +126,7 @@ footer{
         border-radius: 10px;
         font-weight: 100;
         font-size: 12px;
+        text-decoration:none
     }
   
 
@@ -130,6 +138,8 @@ footer{
     margin-bottom:20px ;
     border:none
     font-size: 16px;
+    text-decoration: none
+
 }
     
     
@@ -173,6 +183,8 @@ footer{
         border-radius: 10px;
         font-weight: 100;
         font-size: 30px;
+        text-decoration: none
+
     }
     .About{
         background-color:#87bdd8;
@@ -180,7 +192,8 @@ footer{
         border-radius: 10px;
         font-weight: 100; 
         font-size: 30px;
-        
+        text-decoration: none
+
     }
     .contact{
         background-color:#87bdd8;
@@ -188,6 +201,8 @@ footer{
         border-radius: 10px;
         font-weight: 100;
         font-size: 30px;
+        text-decoration: none
+
     }
   
 
@@ -197,6 +212,8 @@ footer{
     border-radius: 15px;
     border: none
     font-size: 25px;
+    text-decoration: none
+
 }
     
     
@@ -237,7 +254,8 @@ footer{
         border-radius: 10px;
         font-weight: 100;
         font-size: 30px;
-        
+        text-decoration: none
+
     }
     .About{
         background-color:#87bdd8;
@@ -245,7 +263,8 @@ footer{
         border-radius: 10px;
         font-weight: 100; 
         font-size: 30px;
-        
+        text-decoration: none
+
     }
     .contact{
         background-color:#87bdd8;
@@ -253,6 +272,8 @@ footer{
         border-radius: 10px;
         font-weight: 100;
         font-size: 30px;
+        text-decoration: none
+
     }
   
     button{
@@ -263,6 +284,8 @@ footer{
         margin-bottom:20px ;
         border:none
         font-size: 30px;
+        text-decoration: none
+
     }
     h1{
     
