@@ -15,7 +15,7 @@ li{
 display: inline-block;
 font-size: 20px;
 padding:5px;
-margin-left: 2px;
+margin-left: 5px;
 text-decoration:none;
 }
 .cen{
@@ -106,7 +106,9 @@ footer{
         background-image:url('https://hibeeeekay.github.io/RESTAURANT/image2.jpg');
         background-size: 100%;
     }
-   
+   .top_menu{
+      float:right;
+    }
     
     li{
         display: inline-block;
@@ -193,7 +195,9 @@ footer{
         background-size: 100%;
         
     }
-  
+  .top_menu{
+     float:right;
+    }
     
     li{
         display: inline-block;
