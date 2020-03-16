@@ -15,7 +15,7 @@ li{
 display: inline-block;
 font-size: 20px;
 padding:5px;
-margin-left: 10px;
+margin-left: 5px;
 text-decoration:none;
 }
 .cen{
@@ -25,28 +25,28 @@ text-decoration:none;
     background-color:#87bdd8;
     opacity: 0.3px;
     border-radius: 10px;
-    font-weight: 30px;
+    font-weight: 40px;
     font-size: 20px;
 }
 .about{
     background-color:#87bdd8;
     opacity: 0.3px;
     border-radius: 10px;
-    font-weight: 30px; 
+    font-weight: 40px; 
     font-size: 20px;
 }
 .menu{
     background-color:#87bdd8;
     opacity: 0.3px;
     border-radius: 10px;
-    font-weight: 30px;
+    font-weight: 40px;
     font-size: 20px;
 }
 .prices{
     background-color:#87bdd8;
     opacity: 0.3px;
     border-radius: 10px;
-    font-weight: 30px;
+    font-weight: 40px;
     font-size: 20px;
 }
 
@@ -54,7 +54,7 @@ text-decoration:none;
     background-color:#87bdd8;
     opacity: 0.3px;
     border-radius: 10px;
-    font-weight: 30px;
+    font-weight: 40px;
     font-size: 20px;
 }
 button{
@@ -114,7 +114,7 @@ footer{
         display: inline-block;
         font-size: 14px;
         padding:4px;
-        margin-right:4px;
+        margin-right:2px;
         text-decoration:none;
     }
     .Home{
