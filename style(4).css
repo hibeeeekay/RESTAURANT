@@ -121,7 +121,7 @@ table tr:nth-child(odd) {
   }
  footer{
     background-color: darkgrey;
-    margin-top:20px;
+    margin-bottom:0px;
 }
 
 @media screen and (max-width:920px){
