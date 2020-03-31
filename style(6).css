@@ -82,13 +82,13 @@ footer{ color:white; font-size:20px; background-color:black; margin-top:20px;}
     background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;
  }
  .About{
-    background-color:coral; opacity: 0.3px;  border-radius: 5px; font-weight: 30px; }
+    background-color:coral; opacity: 0.3px;  border-radius: 5px; font-weight: 20px; font-size:12px;}
  .menu{
-    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;}
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 20px;font-size:12px;}
  .prices{
-    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;}
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 20px;font-size:12px;}
  .contact{
-    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;}
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 20px; font-size:12px;}
   }     
 @media screen and (min-width:640px){
     html{
