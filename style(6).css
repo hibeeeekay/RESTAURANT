@@ -1,0 +1,104 @@
+body{
+  height:auto; width:100%; color:#4A9B93; background-color:white;
+  }
+.container{
+  display:block; background-color:white;
+   }
+.wrong{
+    text-decoration: line-through;
+}
+h3{
+font-family:cursive;
+}
+.top_menu{
+ float:right;
+}
+li{
+display: inline-block;
+font-size: 20px; padding:5px; margin-right: 2px; text-decoration:none;
+}
+a{
+ text-decoration:none;
+}
+.bot{
+ padding:8px 35px; background-color:coral; border-radius:10px;
+}
+
+.but2{padding:8px 35px; background-color:coral; border-radius:10px;
+}
+h2{
+font-family:cursive;
+}
+.Home{
+    background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;
+}
+.About{
+    background-color:coral; opacity: 0.3px;  border-radius: 8px; font-weight: 30px; }
+.menu{
+    background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;}
+.prices{
+    background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;}
+.contact{
+   background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;}
+table{
+    width:100%;  border-collapse: collapse; }
+th,td{
+    border:2px solid#dddddd;  padding:8px; text-align:left;}
+th{
+  background-color:black; color:white; }
+table tr:nth-child(odd) {
+ background-color:darkgrey; }
+.slider-container {
+  width: 100%;
+  height: auto;
+ }
+.image-container {
+  width: 4.5rem;
+  margin-right:100%;
+  height: auto;
+}
+image-container {
+  ...
+  
+  scroll-behavior: smooth;
+  }
+
+footer{ color:white; font-size:20px; background-color:black; margin-top:20px;}
+
+@media screen and (max-width:480px){
+   html{
+        font-size: 16px;
+    }
+    body{
+        width: 100%;  height: auto; }
+    h1{
+    font-size:20px; font-family:cursive; }
+    li{
+    display: inline-block;  font-size: 16px;  padding:0px; }
+    .bot{
+    padding:5px 10px; background-color:coral; border-radius:4px
+    }
+ .Home{
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;
+ }
+ .About{
+    background-color:coral; opacity: 0.3px;  border-radius: 5px; font-weight: 30px; }
+ .menu{
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;}
+ .prices{
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;}
+ .contact{
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;}
+  }     
+@media screen and (min-width:640px){
+    html{
+    font-size: 24px;
+    }
+    h1{
+    font-size:30px; font-family:cursive;
+    }
+    li{
+    display: inline-block;  font-size: 20px;  padding:0px;}
+    body{
+    width: 100%; height: auto; }
+  }
