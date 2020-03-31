@@ -79,8 +79,7 @@ footer{ color:white; font-size:20px; background-color:black; margin-top:20px;}
     padding:5px 10px; background-color:coral; border-radius:4px
     }
  .Home{
-    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 30px;
- }
+    background-color:coral; opacity: 0.3px; border-radius: 5px; font-weight: 20px font-size:12px;}
  .About{
     background-color:coral; opacity: 0.3px;  border-radius: 5px; font-weight: 20px; font-size:12px;}
  .menu{
