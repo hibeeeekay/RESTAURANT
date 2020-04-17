@@ -1,0 +1,40 @@
+
+body{
+			width:100%;
+			height:auto;		
+	}
+.top_menu{ float:right;}
+
+li{display: inline-block;font-size: 12px; padding:5px; margin-right: 2px; text-decoration:none}
+.container{
+  max-width: 
+  position: r
+  margin: auto;
+}
+a{text-decoration:none;}
+h1,h2{
+				font-family:cursive;
+}
+.Home{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;}.About{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px; }.menu{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;}.prices{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;}.contact{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;}
+
+.mySlides {
+  display: none;
+}
+
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+ @media screen and (max-width:480px){ html{ font-size: 14px; } body{ width: 100%; height: auto; } h1{ font-size:20px; font-family:cursive; } li{ display: inline; font-size: 12px; padding:2px; } .bot{ padding:5px 10px; background-color:coral; border-radius:4px; } .Home{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px; font-size:12px;} .About{ background-color:coral; opacity: 0.3px; border-radius: px; font-weight: 30px; font-size:12px;} .menu{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;font-size:12px;} .prices{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px;font-size:12px;} .contact{ background-color:coral; opacity: 0.3px; border-radius: 10px; font-weight: 30px; font-size:12px;} }
+
+@media screen and (min-width:640px){ html{ font-size: 24px; }
+ img{height:250px; width:600px;}
+ .twit{height:50px; width:50px;}
+ h1{ font-size:30px; font-family:cursive; } li{ display: inline-block; font-size: 24px; padding:0px;} body{ width: 100%; height: auto; } }
