@@ -1,5 +1,5 @@
 body{
-  height:auto; width:100%; color:#4A9B93; background-color:white;
+  height:auto; width:100%; color:#4A9B93; background-color:white;overflow-x:hidden;
   }
 .container{
   display:block; background-color:white;
